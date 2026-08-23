@@ -37,9 +37,24 @@ If an unrelated photograph could replace the source without materially changing 
 
 See [SKILL.md](SKILL.md) and the [production prompt](references/xxd-panel-050-prompt.en.md) for the complete contract. They preserve the original aesthetic motive without making its historical 3:4 canvas a hidden default.
 
-## Samples · Coming soon
+## Samples · From X
 
-No official 050 sample source has been provided, so this project does not borrow another style's imagery as a placeholder. Once Xiaoxiaodong supplies the verified `VOL.050` X post, local copies will be stored in `assets/examples/` and every image will link back to its source. Future samples demonstrate the aesthetic motive only; they never become generation references or defaults.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091461184516227185) · 23 August 2026<br>
+> GPT2 × vector illustration × travel × minimal × aesthetic prompt × VOL.050
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 050 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 050 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 050 sample 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 050 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four combinable output modes
 

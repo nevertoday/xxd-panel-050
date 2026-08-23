@@ -37,9 +37,24 @@
 
 完全仕様は [SKILL.md](SKILL.md) と [生成プロンプト](references/xxd-panel-050-prompt.en.md) を参照してください。原文の美的動機を守りつつ、歴史的な3:4画布を隠れた既定値にはしません。
 
-## 作例 · 準備中
+## 作例 · X より
 
-050 の正式な作例ソースはまだ提供されていないため、他のスタイルの画像を仮置きしません。小小東の検証済み `VOL.050` X 投稿が提供された後、画像を `assets/examples/` に保存し、各画像を原投稿へリンクします。将来の作例も生成参照や既定値にはなりません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091461184516227185) · 2026年8月23日<br>
+> GPT2 × ベクターイラスト × 旅 × ミニマル × 美学プロンプト × VOL.050
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 050 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 050 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 050 作例 3"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 050 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 組み合わせ可能な4つの出力
 
