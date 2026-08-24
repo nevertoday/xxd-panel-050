@@ -18,25 +18,6 @@
 
 Transform the source's most recognisable subject and narrative relation into a premium travel visual designed specifically for it: one focus, two to four grounded contextual cues, calm whitespace, and a light blue-led palette—not a generic template with a replaced city name.
 
-## Why this Skill exists
-
-```text
-lock subject, pose, and narrative relation → preserve three specific cues → choose one primary visual focus → derive two to four environmental proofs → reorganise around the subject rather than a template → unify through airy-blue flat-vector language → retain calm breathing room → make title and tagline part of the scene's identity
-```
-
-If an unrelated photograph could replace the source without materially changing recognition, contextual evidence, spatial order, colour relation, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- Preserve at least three source-specific cues; never reduce the subject to a generic icon.
-- Establish one focus with two to four source-grounded contextual cues. If people are needed, use only three to six small integrated figures.
-- Let the source determine the setting; never pile up unrelated landmarks or apply a city-name or postcard formula.
-- Use Japanese stationery, boutique sticker illustration, and contemporary travel-branding sensibilities: simple geometry, soft contours, coherent line weight, flat colour, restrained detail, and ample whitespace.
-- Lead with powder, mist, sky, or airy cool blue; balance with ivory, cream, pale beige, soft grey-green, and architectural neutrals. Muted blush is a tiny accent only.
-- Reject realism, plastic CGI, gradients, texture, heavy shadow, crowded background, landmark collage, and repeated layouts.
-
-See [SKILL.md](SKILL.md) and the [runtime adapter](references/xxd-panel-050-prompt.en.md) for the complete contract. They preserve the original aesthetic motive without making its historical 3:4 canvas a hidden default.
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091461184516227185) · 23 August 2026<br>
@@ -55,6 +36,25 @@ See [SKILL.md](SKILL.md) and the [runtime adapter](references/xxd-panel-050-prom
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 050 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+```text
+lock subject, pose, and narrative relation → preserve three specific cues → choose one primary visual focus → derive two to four environmental proofs → reorganise around the subject rather than a template → unify through airy-blue flat-vector language → retain calm breathing room → make title and tagline part of the scene's identity
+```
+
+If an unrelated photograph could replace the source without materially changing recognition, contextual evidence, spatial order, colour relation, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- Preserve at least three source-specific cues; never reduce the subject to a generic icon.
+- Establish one focus with two to four source-grounded contextual cues. If people are needed, use only three to six small integrated figures.
+- Let the source determine the setting; never pile up unrelated landmarks or apply a city-name or postcard formula.
+- Use Japanese stationery, boutique sticker illustration, and contemporary travel-branding sensibilities: simple geometry, soft contours, coherent line weight, flat colour, restrained detail, and ample whitespace.
+- Lead with powder, mist, sky, or airy cool blue; balance with ivory, cream, pale beige, soft grey-green, and architectural neutrals. Muted blush is a tiny accent only.
+- Reject realism, plastic CGI, gradients, texture, heavy shadow, crowded background, landmark collage, and repeated layouts.
+
+See [SKILL.md](SKILL.md) and the [runtime adapter](references/xxd-panel-050-prompt.en.md) for the complete contract. They preserve the original aesthetic motive without making its historical 3:4 canvas a hidden default.
 
 ## The original brief is authoritative
 
