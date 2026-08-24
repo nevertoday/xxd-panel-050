@@ -37,7 +37,18 @@ Transform the source's most recognisable subject and narrative relation into a p
 
 These samples demonstrate the 050 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 050 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Give every photograph its own airy-blue travel identity |
+| **Recognizable signature** | BESPOKE TRAVEL SCENE · AIRY BLUE · MINIMAL FLAT VECTOR · EDITORIAL WHITESPACE · ONE IMAGE, ONE IDENTITY |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 ```text
 lock subject, pose, and narrative relation → preserve three specific cues → choose one primary visual focus → derive two to four environmental proofs → reorganise around the subject rather than a template → unify through airy-blue flat-vector language → retain calm breathing room → make title and tagline part of the scene's identity
@@ -45,7 +56,7 @@ lock subject, pose, and narrative relation → preserve three specific cues → 
 
 If an unrelated photograph could replace the source without materially changing recognition, contextual evidence, spatial order, colour relation, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - Preserve at least three source-specific cues; never reduce the subject to a generic icon.
 - Establish one focus with two to four source-grounded contextual cues. If people are needed, use only three to six small integrated figures.
