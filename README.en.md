@@ -14,14 +14,7 @@
 
 </div>
 
-> BESPOKE TRAVEL SCENE · AIRY BLUE · MINIMAL FLAT VECTOR · EDITORIAL WHITESPACE · ONE IMAGE, ONE IDENTITY
-
-Transform the source's most recognisable subject and narrative relation into a premium travel visual designed specifically for it: one focus, two to four grounded contextual cues, calm whitespace, and a light blue-led palette—not a generic template with a replaced city name.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091461184516227185) · 23 August 2026<br>
-> GPT2 × vector illustration × travel × minimal × aesthetic prompt × VOL.050
 
 <table>
   <tr>
@@ -33,9 +26,16 @@ Transform the source's most recognisable subject and narrative relation into a p
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091461184516227185) · 23 August 2026<br>
+> GPT2 × vector illustration × travel × minimal × aesthetic prompt × VOL.050
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091461184516227185">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 050 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> BESPOKE TRAVEL SCENE · AIRY BLUE · MINIMAL FLAT VECTOR · EDITORIAL WHITESPACE · ONE IMAGE, ONE IDENTITY
+
+Transform the source's most recognisable subject and narrative relation into a premium travel visual designed specifically for it: one focus, two to four grounded contextual cues, calm whitespace, and a light blue-led palette—not a generic template with a replaced city name.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 050 right for you?
