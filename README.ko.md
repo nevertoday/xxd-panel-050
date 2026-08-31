@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 050
+# 🦁 XXD Panel 050｜여행 엽서
 
 ### 한 장의 사진을 그 장소만의 에어리 블루 여행 비주얼로
 

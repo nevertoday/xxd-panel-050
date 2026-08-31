@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 050
+# 🦁 XXD Panel 050｜旅の絵はがき
 
 ### 一枚の写真から、その場所だけの空色トラベル・ビジュアルへ
 

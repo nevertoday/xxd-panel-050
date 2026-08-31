@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 050
+# 🦁 XXD Panel 050｜旅行明信片
 
 ### 让每张照片长成专属的空气蓝旅行视觉
 

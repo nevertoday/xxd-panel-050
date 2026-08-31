@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 050
+# 🦁 XXD Panel 050｜Travel Postcard
 
 ### Give every photograph its own airy-blue travel identity
 
