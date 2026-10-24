@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 050｜Travel Postcard: turns a photo into a premium minimalist flat-vector travel poster made for that place or subject — one clear focal point with two to four supporting details of local life, simple geometric shapes, soft outlines, even line weight and flat colour with no texture, gradients or heavy shadows, in airy pale blues, mist blue and sky blue balanced by ivory, cream, soft grey-green and a touch of dusty rose. If people appear, only three to six small figures. A short title top-left or in open space with one understated tagline and a few tiny notes. Each result gets its own layout. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-050 or asks for a minimalist flat travel poster, vector postcard or airy-blue travel branding from a photo.",
+  "short_description": "旅行明信片：把照片画成空气蓝调、极简扁平矢量的专属旅行海报",
+  "zh-CN": {
+    "name": "旅行明信片",
+    "tagline": "把每张照片画成一张为它量身定制的空气蓝极简旅行海报。",
+    "look": "画面围绕照片里一个最有代表性的焦点展开，再配两到四个说明当地生活或环境气质的小元素，比如街道、岸边、庭院或一角室内；需要人物时只放三到六个小人，不设主角。画法是高级极简扁平矢量：简洁几何形、柔和轮廓、统一线重、平涂色块，没有纹理、渐变和厚重阴影。主色是浅粉蓝、雾蓝、天空蓝，用象牙白、奶油白、柔和灰绿平衡，只有一点灰粉色点缀。文字是左上或留白处的一个短标题，配一句克制的标语和少量小字，每张的构图都不重复。",
+    "traits": ["定制旅行场景", "空气蓝", "极简平涂", "编辑留白", "地点身份"],
+    "good": [
+      "有地方特色的街景和建筑：海边小镇、石板街、红顶房子、街角咖啡馆",
+      "带生活气息的旅途瞬间：岸边的小船、广场上的鸽子、晾着衣服的阳台",
+      "想做成旅行明信片、城市推广海报或行程封面的照片"
+    ],
+    "poor": [
+      "需要写实或保留照片细节的需求，这套风格只用扁平色块",
+      "必须保留原图浓烈色彩的照片：霓虹夜景、彩色节庆、红黄主调的场景",
+      "想要水彩纹理、纸张肌理、渐变或拼满地标的明信片效果"
+    ]
+  },
+  "en": {
+    "name": "Travel Postcard",
+    "tagline": "Turns each photo into its own airy-blue minimalist travel poster.",
+    "look": "The picture is built around the one most telling focal point in the photo, plus two to four small details of local life or atmosphere such as a street, a shoreline, a courtyard or a corner of a room; if people are needed, there are only three to six small figures and no single lead. It is drawn as premium minimalist flat vector art: simple geometric shapes, soft outlines, even line weight and flat colour, with no texture, gradients or heavy shadows. The main colours are pale blue, mist blue and sky blue, balanced with ivory, cream and soft grey-green and only a touch of dusty rose. Text is one short title at the top left or in open space, with one understated tagline and a few small notes, and no two layouts are the same.",
+    "traits": ["Made-to-measure travel scene", "Airy blue", "Minimal flat colour", "Editorial whitespace", "Sense of place"],
+    "good": [
+      "Streets and buildings with local character: a seaside town, a cobbled lane, red-roofed houses, a corner café",
+      "Travel moments with everyday life in them: a boat by the shore, pigeons in a square, a balcony with laundry",
+      "Photos for a travel postcard, a city promotion poster or an itinerary cover"
+    ],
+    "poor": [
+      "Requests that need realism or the photo's detail, since this style uses only flat shapes",
+      "Photos whose strong colour must stay: neon night scenes, colourful festivals, red-and-yellow scenes",
+      "Requests for watercolour texture, paper grain, gradients or a postcard crammed with landmarks"
+    ]
+  },
+  "ja": {
+    "name": "旅の絵はがき",
+    "tagline": "一枚ごとの写真を、その場所のための空色のミニマルな旅のポスターにします。",
+    "look": "画面は写真でいちばん象徴的な焦点を中心に、その土地の暮らしや空気を伝える小さな要素を二〜四つ添えて組み立てます。通り、岸辺、中庭、部屋の一角などです。人物が必要なときは小さな人を三〜六人だけ置き、主役はつくりません。描き方は上質でミニマルなフラットベクターで、シンプルな幾何学形、柔らかな輪郭、そろった線の太さ、ベタ塗りの色面で、質感、グラデーション、重い影はありません。主な色は淡いピンクがかった青、霧のような青、空色で、アイボリー、生成り、柔らかな灰緑で釣り合いをとり、くすんだローズを少しだけ差します。文字は左上か余白に短いタイトル一つと、控えめなキャッチコピー一行、小さな文字が少し。一枚ごとに構図が変わります。",
+    "traits": ["その場所だけの旅の情景", "空色", "ミニマルなベタ塗り", "編集的な余白", "土地の個性"],
+    "good": [
+      "土地らしさのある街並みや建物：海辺の町、石畳の通り、赤い屋根の家、街角のカフェ",
+      "暮らしの気配がある旅の一瞬：岸辺の小舟、広場の鳩、洗濯物の揺れるバルコニー",
+      "旅の絵はがき、街のプロモーションポスター、旅程の表紙にしたい写真"
+    ],
+    "poor": [
+      "写実や写真の細部を残したい場合（このスタイルはベタ塗りの形だけを使います）",
+      "強い色をそのまま残したい写真：ネオンの夜景、色鮮やかな祭り、赤と黄が主体の場面",
+      "水彩の質感、紙の風合い、グラデーション、名所を詰め込んだ絵はがきを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "여행 엽서",
+    "tagline": "사진 한 장 한 장을 그곳만을 위한 에어리 블루 미니멀 여행 포스터로 그립니다.",
+    "look": "화면은 사진에서 가장 대표적인 초점 하나를 중심으로, 그 지역의 생활이나 분위기를 알려 주는 작은 요소 두세 개에서 네 개를 곁들여 짭니다. 거리, 물가, 안뜰, 방 한쪽 같은 것들입니다. 사람이 필요하면 작은 사람 셋에서 여섯 명만 두고 주인공은 정하지 않습니다. 그림은 고급스러운 미니멀 플랫 벡터로, 단순한 기하 도형, 부드러운 윤곽, 고른 선 굵기, 평면 색면만 쓰고 질감, 그라데이션, 무거운 그림자는 없습니다. 주된 색은 연분홍빛 파랑, 안개빛 파랑, 하늘색이고, 아이보리, 크림색, 부드러운 회녹색으로 균형을 잡으며 더스티 로즈는 아주 조금만 씁니다. 글자는 왼쪽 위나 여백에 짧은 제목 하나와 절제된 문구 한 줄, 작은 글자 약간이며, 장마다 구도가 다릅니다.",
+    "traits": ["맞춤 여행 장면", "에어리 블루", "미니멀 평면 채색", "편집 여백", "장소의 정체성"],
+    "good": [
+      "지역색이 있는 거리와 건물: 바닷가 마을, 돌길, 빨간 지붕 집, 길모퉁이 카페",
+      "생활감이 담긴 여행의 순간: 물가의 작은 배, 광장의 비둘기, 빨래 널린 발코니",
+      "여행 엽서, 도시 홍보 포스터, 여행 일정 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실감이나 사진의 세부가 필요한 경우(이 스타일은 평면 색면만 씁니다)",
+      "강한 색을 그대로 살려야 하는 사진: 네온 야경, 화려한 축제, 빨강과 노랑이 주인 장면",
+      "수채 질감, 종이 결, 그라데이션, 랜드마크로 가득 찬 엽서를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "بطاقة بريدية للسفر",
+    "tagline": "يحوّل كل صورة إلى ملصق سفر بسيط خاص بها بلون أزرق هوائي.",
+    "look": "تُبنى اللوحة حول أبرز نقطة تركيز في الصورة، مع عنصرين إلى أربعة عناصر صغيرة تحكي الحياة المحلية أو أجواء المكان، كشارع أو ضفة أو فناء أو زاوية غرفة؛ وإذا احتاج المشهد إلى أشخاص فلا يزيدون على ثلاثة إلى ستة أشخاص صغار بلا بطل واحد. الرسم متجهي مسطح بسيط ومتقن: أشكال هندسية بسيطة وحواف ناعمة وسماكة خط موحدة وألوان مسطحة، بلا ملمس ولا تدرجات ولا ظلال ثقيلة. الألوان الرئيسية أزرق وردي فاتح وأزرق ضبابي وأزرق سماوي، يوازنها العاجي والكريمي والأخضر الرمادي الناعم، مع لمسة قليلة من الوردي الباهت. النص عنوان قصير واحد أعلى اليسار أو في الفراغ، مع شعار هادئ وسطر واحد وبضع ملاحظات صغيرة، ولا يتكرر التكوين بين صورة وأخرى.",
+    "traits": ["مشهد سفر مفصّل", "أزرق هوائي", "ألوان مسطحة بسيطة", "فراغ تحريري", "هوية المكان"],
+    "good": [
+      "شوارع ومبانٍ ذات طابع محلي: بلدة ساحلية، زقاق مرصوف، بيوت بأسقف حمراء، مقهى على الناصية",
+      "لحظات سفر فيها حياة يومية: قارب على الشاطئ، حمام في ساحة، شرفة عليها غسيل منشور",
+      "صور لبطاقة بريدية للسفر أو ملصق ترويج لمدينة أو غلاف برنامج رحلة"
+    ],
+    "poor": [
+      "طلبات تحتاج إلى الواقعية أو تفاصيل الصورة، لأن الأسلوب لا يستخدم إلا الأشكال المسطحة",
+      "صور يجب أن تبقى ألوانها القوية: مشاهد النيون الليلية، المهرجانات الملوّنة، المشاهد الحمراء والصفراء",
+      "طلب ملمس الألوان المائية أو حبيبات الورق أو التدرجات أو بطاقة مكتظة بالمعالم"
+    ]
+  }
+}
